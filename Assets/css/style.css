@@ -1,0 +1,29 @@
+.container {
+    width: 100%
+  }
+  
+  .indentColumn {
+    padding-left: 0px;
+    padding-right: 0px;
+    font-size:15px;
+    width: 300px;
+    text-align:right
+  }
+  
+  #descriptionLine {
+    color: darkgray;
+    background-color: darkgray;
+    height: 1px;
+    width: 100%
+  }
+  
+  
+  
+  #quizTitle {
+    text-align: center;
+    color: darkgray;
+    font-size: 30px;
+    font-weight: bold;
+  }
+ 
+  
